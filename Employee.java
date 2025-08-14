@@ -15,6 +15,7 @@ public class Employee {
 		System.out.println("Employee name:" +name);
 		System.out.println("Employee ID:" +id);
 		System.out.println("Employee Salary:" +salary);
+		System.out.println("----------------");
 		
 	}
 	
@@ -25,3 +26,4 @@ public class Employee {
 	}
 
 }
+
