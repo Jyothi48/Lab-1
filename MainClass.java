@@ -9,11 +9,8 @@ public class MainClass {
 		
 		System.out.println("Initial details");
 		e1.displayDetails();
-		System.out.println("----------------");
     	e2.displayDetails();
-    	System.out.println("----------------");
     	
-		
 		e1.increaseSalary(5);
 		e2.increaseSalary(5);
 		
@@ -25,3 +22,4 @@ public class MainClass {
 	}
 
 }
+
